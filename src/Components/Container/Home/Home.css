@@ -1,0 +1,135 @@
+.PageHome{
+    margin-top: 50px;
+}
+h1{
+    color: #6c757df9;
+    text-align: center;
+}
+.ford{
+    font-size: 4em;
+}
+.must{
+    margin-top: -25px;
+    font-size: 12em;
+}
+.Car_must{
+    margin-top: -90px;
+    text-align: center;
+}
+.icons{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start; 
+    font-size: 15px;
+    margin-left: 80px;
+    margin-top: -100px;
+    cursor: pointer;
+}
+.icons > * {
+    margin-bottom: 15px; /* Adds space between each icon */
+}
+#icon:hover{
+    font-size: 18px;
+}
+.custom-carousel-icon{
+    position: absolute;
+    color: red;
+    font-size: 24px;
+    text-decoration: #6c757df9;
+}
+
+.buttons{
+    text-align: center;
+    
+}
+#rent1{
+    width: 10em;
+  background-color: rgb(49 69 89);
+  color: white;
+  font-size: 20px;
+  border-radius: 6px;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  -ms-border-radius: 6px;
+  -o-border-radius: 6px;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+}
+#det1{
+    width: 10em;
+    padding: 10px;
+  font-size: 20px;
+  color: rgb(87, 87, 87);
+  margin-left: 30px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgb(0, 0, 0);
+  border-radius: 6px;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  -ms-border-radius: 6px;
+  -o-border-radius: 6px;
+  cursor: pointer;
+}
+#rent2{
+    width: 10em;
+  background-color: #8d8c91;
+  color: white;
+  font-size: 20px;
+  border-radius: 6px;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  -ms-border-radius: 6px;
+  -o-border-radius: 6px;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+}
+#det2{
+    width: 10em;
+    padding: 10px;
+  font-size: 20px;
+  color: rgb(87, 87, 87);
+  margin-left: 30px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgb(0, 0, 0);
+  border-radius: 6px;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  -ms-border-radius: 6px;
+  -o-border-radius: 6px;
+  cursor: pointer;
+}
+#rent3{
+    width: 10em;
+  background-color: #7d0002;
+  color: white;
+  font-size: 20px;
+  border-radius: 6px;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  -ms-border-radius: 6px;
+  -o-border-radius: 6px;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+}
+#det3{
+    width: 10em;
+    padding: 10px;
+  font-size: 20px;
+  color: rgb(87, 87, 87);
+  margin-left: 30px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgb(0, 0, 0);
+  border-radius: 6px;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  -ms-border-radius: 6px;
+  -o-border-radius: 6px;
+  cursor: pointer;
+}
